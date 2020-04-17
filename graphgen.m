@@ -1,0 +1,1 @@
+bar(x,rungens(7,white_c_pdist,white_c_trmat), 'stacked')
